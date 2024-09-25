@@ -1,24 +1,24 @@
-# Object-Oriented Programming - Ironhack
+# Object-Oriented-Programming-Ironhack
 
-## Vikingos Project
+# Vikingos Project
 
-This session focuses on the **Vikingos project**, a practical application of Python fundamentals dedicated to practicing **Object-Oriented Programming (OOP)**, functions, and encapsulation. 
+This session focuses on the **Vikingos project**, a practical application of Python fundamentals. It is entirely dedicated to practicing **Object-Oriented Programming (OOP)**, functions, and encapsulation.
 
-Through this project, I solidified my understanding of these concepts by applying my skills in a comprehensive, real-world scenario, thereby improving my problem-solving abilities and coding proficiency.
+Through this project, I solidified my understanding of these concepts by applying my skills in a comprehensive and real-world scenario, improving my problem-solving abilities and coding proficiency.
 
-![Ironhack Logo](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-## Mini Project | Vikingos (Vikings)
+# Mini Project | Vikingos (Vikings)
 
-### Introducción
+## Introduction
 
-Los Vikingos y los Sajones están en guerra. Ambos son soldados, pero tienen sus propios métodos de lucha. ¡Los Vikingos han sido transportados a Python! ¡YAY!
+The Vikings and Saxons are at war. Both are Soldiers, but they have their own methods of fighting. The Vikings have been transported to Python. YAY!!
 
-En este laboratorio, trabajarás con el concepto de herencia en Python.
+In this lab, you will work with the concept of inheritance in Python.
 
-### Empezando
+### Getting Started
 
-Encontrarás los siguientes archivos en la carpeta de este laboratorio:
+You will find the following files in the folder for this lab:
 
 - `vikingsClasses.py`
 - `1-testSoldier.py`
@@ -26,27 +26,27 @@ Encontrarás los siguientes archivos en la carpeta de este laboratorio:
 - `3-testSaxons.py`
 - `4-testWar.py`
 
-Eres libre de usar cualquiera de los editores de código que tengas para abrir estos archivos.
+You are free to use any code editor you have to open these files.
 
-### Pregunta del desafío
+### Challenge Question
 
-Modifica el archivo `vikingsClasses.py` para que todas las pruebas sean correctas.
+Modify the file `vikingsClasses.py` so that all the tests pass.
 
-## Entrega
+## Submission
 
-- Modifica `vikingsClasses.py` y guarda tus cambios.
+- Modify `vikingsClasses.py` and save your changes.
 
-## Pruebas
+## Testing
 
-La mejor manera de saber cómo va nuestro código es trabajando con pruebas. Probarás el archivo `vikingsClasses.py` paso a paso.
+The best way to know how our code is performing is to work with tests. You will test the `vikingsClasses.py` file step by step.
 
-**Solo** estarás **editando** el archivo `vikingsClasses.py`. Los archivos que **ejecutarás** para probar tu código son `1-testSoldier.py`, `2-testVikings.py`, `3-testSaxons.py` y `4-testWar.py`, dependiendo de cuánto hayas avanzado en tu código.
+**You will only be editing** the `vikingsClasses.py` file. The files that you will **run** to test your code are: `1-testSoldier.py`, `2-testVikings.py`, `3-testSaxons.py`, and `4-testWar.py`, depending on how far you have progressed in your code.
 
-Por ejemplo, si ya has creado la clase para los Soldados:
+So, let’s say you have already created the class for Soldiers.
 
-1. Escribe tu código.
-2. Asegúrate de guardar los cambios en tu editor.
-3. En tu terminal, ejecuta el archivo de prueba para esa clase:
+1. Write your code.
+2. Make sure to save the changes in your editor.
+3. In your terminal, run the test file for that class.
 
 ```bash
 $ python3 1-testSoldier.py --v
